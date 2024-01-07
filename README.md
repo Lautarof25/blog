@@ -1,11 +1,11 @@
 # Blog
 Creación de un blog para el portfolio
 
-
-
 ## Wireframes
 
 Inspiración de varios blogs de https://dribbble.com/
+
+https://dribbble.com/shots/19723178-Case-Study-Physica-Magazine
 
 
 ## 🛠 Skills
@@ -13,11 +13,10 @@ Inspiración de varios blogs de https://dribbble.com/
 HTML, CSS and JavaScript
 ## Features
 
-- Grid concept
+- Flexbox concept
 - Dynamic articles
 - Movement infinite articles 
 - Modal articles
-
 
 ## Screenshots
 
